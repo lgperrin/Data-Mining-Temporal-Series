@@ -82,35 +82,32 @@ se implementa un método Python.
 
 ## Apéndice: Tiempo de Ejecución (segundos) para cada Método Implementado
 
-| Método                             | Tiempo de Ejecución (segundos)    |
-|------------------------------------|-----------------------------------|
-| `impute_precip_type_na_as_snow`    | 5.153655290603638                 |
-| `preprocess_weather_data`          | 6.1320366859436035                |
-| `preprocess_data`                  | 0.0000455379486083944             |
-| `find_optimal_clusters`            | 28.561754941940308                |
-| `apply_kmeans`                     | 9.563373565673828                 |
-| `visualize_clusters`               | 12.803064584732056                |
-| `eval_clust`                       | 126.71682500839233                |
-| `plot_acf_pacf`                    | 5.634672403335571                 |
-| `plot_seasonal_decompose`          | 1.1513631343841553                |
-| `fit_sarima`                       | 131.5040798187256                 |
-| `train_sarima`                     | 97.52052307128906                 |
-| `forecast_sarima`                  | 1.5710036754608154                |
-| `calculate_accuracy`               | 0.6643753051757812                |
-| `categorizar` (primera invocación) | 0.22289395332336426               |
-| `categorizar` (segunda invocación) | 0.08489227294921875               |
-| `prepare_rf`                       | 42.450777530670166                |
-| `visualizar_pred`                  | 10.665130376815796                |
-| `crear_series_temporales`          | 0.131911039352417                 |
-| `recurrence_plot` (primera invocación) | 0.22237372398376465           |
-| `recurrence_plot` (segunda invocación) | 0.28394293785095215           |
-| `plot_recurrence_plots`            | 4.226735830307007                 |
-| `recurrence_plot` (tercera invocación) | 0.32770562171936035           |
-| `recurrence_plot` (cuarta invocación) | 0.35254359245300293           |
-| `prepare_training_data`            | 22.50136160850525                 |
-| `preparar_datos`                   | 0.002007007598876953              |
-| `build_model`                      | 1.4650955200195312                |
-| `train_and_evaluar_model`          | 11.480260133743286                |
+| Método                             | Tiempo de Ejecución (segundos) |
+|------------------------------------|--------------------------------|
+| `impute_precip_type_na_as_snow`    | 5.15                           |
+| `preprocess_weather_data`          | 6.13                           |
+| `preprocess_data`                  | 0.00                           |
+| `find_optimal_clusters`            | 28.56                          |
+| `apply_kmeans`                     | 9.56                           |
+| `visualize_clusters`               | 12.80                          |
+| `eval_clust`                       | 126.72                         |
+| `plot_acf_pacf`                    | 5.63                           |
+| `plot_seasonal_decompose`          | 1.15                           |
+| `fit_sarima`                       | 131.50                         |
+| `train_sarima`                     | 97.52                          |
+| `forecast_sarima`                  | 1.57                           |
+| `calculate_accuracy`               | 0.66                           |
+| `categorizar`                      | 0.22                           |
+| `prepare_rf`                       | 42.45                          |
+| `visualizar_pred`                  | 10.67                          |
+| `crear_series_temporales`          | 0.13                           |
+| `recurrence_plot`                  | 0.22                           |
+| `plot_recurrence_plots`            | 4.23                           |
+| `prepare_training_data`            | 22.50                          |
+| `preparar_datos`                   | 0.00                           |
+| `build_model`                      | 1.47                           |
+| `train_and_evaluar_model`          | 11.48                          |
+
 
 
 
