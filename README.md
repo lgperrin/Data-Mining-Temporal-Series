@@ -83,7 +83,7 @@ se implementa un método Python.
 ## Apéndice: Tiempo de Ejecución (segundos) para cada Método Implementado
 
 | Método                             | Tiempo de Ejecución (segundos) |
-|------------------------------------|--------------------------------|
+|------------------------------------|:------------------------------:|
 | `impute_precip_type_na_as_snow`    | 5.15                           |
 | `preprocess_weather_data`          | 6.13                           |
 | `preprocess_data`                  | 0.00                           |
