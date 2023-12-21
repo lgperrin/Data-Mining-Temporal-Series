@@ -3,8 +3,10 @@
 
 | Universidad | Politécnica de Madrid (UPM) |
 | --- | --- |
-| Autoras | Laura García Perrín y  Xiya Sun | 
+| Escuela | Técnica Superior de Ingenieros Informáticos (ETSIINF) |
 | Grado   | Ciencia de Datos e IA           |
+| Asignatura | Descubrimiento de Conocimiento en Datos Complejos |
+| Autoras | Laura García Perrín y  Xiya Sun | 
 
 
 ## Introducción y Objetivos
